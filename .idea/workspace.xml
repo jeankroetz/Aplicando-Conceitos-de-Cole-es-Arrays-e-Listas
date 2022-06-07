@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Ais sobre desenvolvimento com ListOf">
+    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Mais sobre desenvolvimento com ListOf/ GroupBy">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/Funcionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/set.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/List.kt" afterDir="false" />
     </list>
@@ -16,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -40,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ListKt">
+  <component name="RunManager" selected="Kotlin.SetKt">
     <configuration name="ArrayDeStringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jeankroetz.ArrayDeStringsKt" />
       <module name="consoleApp" />
@@ -50,13 +52,6 @@
     </configuration>
     <configuration name="DoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jeankroetz.DoubleArrayKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jeankroetz.IntArrayOfKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jeankroetz.SetKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SetKt" />
         <item itemvalue="Kotlin.ListKt" />
         <item itemvalue="Kotlin.OperacoesKt" />
         <item itemvalue="Kotlin.DoubleArrayKt" />
         <item itemvalue="Kotlin.ArrayDeStringsKt" />
-        <item itemvalue="Kotlin.IntArrayOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654604514048</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Mais sobre desenvolvimento com ListOf/ GroupBy">
+      <created>1654606754749</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654606754749</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +193,7 @@
     <MESSAGE value="Operações .count .find .any" />
     <MESSAGE value="Desenvolvimento com ListOf" />
     <MESSAGE value="Ais sobre desenvolvimento com ListOf" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ais sobre desenvolvimento com ListOf" />
+    <MESSAGE value="Mais sobre desenvolvimento com ListOf/ GroupBy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mais sobre desenvolvimento com ListOf/ GroupBy" />
   </component>
 </project>
