@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Operações .count .find .any">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Desenvolvimento com ListOf">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/List.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654596082354</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Desenvolvimento com ListOf">
+      <created>1654602588694</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654602588694</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +174,7 @@
     <MESSAGE value="Apresentado o DoubleArray, doubleArrayOf.&#10;&#10;Foi criado uma operação que adiociona 20% no salário.&#10;&#10;Adiocionado tambem uma operação que vai calcular o salário aumentado em 20% + bonus. Pegando o indice do salarioBonus e somando com o indice do bonus" />
     <MESSAGE value="Operações .max .min .average e filter" />
     <MESSAGE value="Operações .count .find .any" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operações .count .find .any" />
+    <MESSAGE value="Desenvolvimento com ListOf" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desenvolvimento com ListOf" />
   </component>
 </project>

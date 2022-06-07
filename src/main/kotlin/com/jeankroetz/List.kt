@@ -12,6 +12,11 @@ fun main() {
 
     println(funcionarios.find { it.nome == "Maria" })
 
+    println("/////////////////")
+    //Operação de ordenação por propriedades de um objeto
+    //Encadeamento
+    funcionarios.sortedBy { it.salario }.forEach { println(it) }
+
 }
 
 data class Funcionario(
