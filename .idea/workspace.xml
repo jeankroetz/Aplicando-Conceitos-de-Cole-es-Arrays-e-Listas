@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Apresentado o DoubleArray, doubleArrayOf.&#10;&#10;Foi criado uma operação que adiociona 20% no salário.&#10;&#10;Adiocionado tambem uma operação que vai calcular o salário aumentado em 20% + bonus. Pegando o indice do salarioBonus e somando com o indice do bonus">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/operacoes.kt" afterDir="false" />
+    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Operações .max .min .average e filter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/operacoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/operacoes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654197973771</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Operações .max .min .average e filter">
+      <created>1654595104582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654595104582</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +150,7 @@
     <MESSAGE value="Introduzido o IntArrayOf. Inicializa o array sem precisar passar a capacidade inicial" />
     <MESSAGE value="Criado Array e arrayOf, agora para strings" />
     <MESSAGE value="Apresentado o DoubleArray, doubleArrayOf.&#10;&#10;Foi criado uma operação que adiociona 20% no salário.&#10;&#10;Adiocionado tambem uma operação que vai calcular o salário aumentado em 20% + bonus. Pegando o indice do salarioBonus e somando com o indice do bonus" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apresentado o DoubleArray, doubleArrayOf.&#10;&#10;Foi criado uma operação que adiociona 20% no salário.&#10;&#10;Adiocionado tambem uma operação que vai calcular o salário aumentado em 20% + bonus. Pegando o indice do salarioBonus e somando com o indice do bonus" />
+    <MESSAGE value="Operações .max .min .average e filter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operações .max .min .average e filter" />
   </component>
 </project>
