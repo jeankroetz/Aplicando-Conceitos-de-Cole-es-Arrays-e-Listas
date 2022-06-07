@@ -1,9 +1,9 @@
 package com.jeankroetz
 
 fun main() {
-    val joao = Funcionario("João", 1000.0)
-    val maria = Funcionario("Maria", 1200.0)
-    val roberto = Funcionario("Roberto", 1150.0)
+    val joao = Funcionario("João", 1000.0, "CLT")
+    val maria = Funcionario("Maria", 1200.0,"CLT")
+    val roberto = Funcionario("Roberto", 1150.0,"PJ")
 
     val funcionarios = listOf(joao, maria, roberto)
     funcionarios.forEach{ println(it) }
@@ -15,18 +15,24 @@ fun main() {
     println("/////////////////")
     //Operação de ordenação por propriedades de um objeto
     //Encadeamento
+    //O forEach atua como coletor, pegando os valores gerados pelo sortedBy e imprimindo
     funcionarios.sortedBy { it.salario }.forEach { println(it) }
 
+    println("/////////////////")
+    //Agrupa por propriedade
+    funcionarios.groupBy { it.tipo }.forEach { println(it) }
 }
 
 data class Funcionario(
     val nome: String,
-    val salario: Double)
+    val salario: Double,
+    val tipo: String)
 {
     override fun toString(): String =
         """
             Nome:     $nome
             Salário:  $salario
+            Tipo:     $tipo
             
         """.trimIndent()
 }

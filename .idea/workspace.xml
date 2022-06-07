@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Desenvolvimento com ListOf">
+    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Ais sobre desenvolvimento com ListOf">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/List.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654602588694</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ais sobre desenvolvimento com ListOf">
+      <created>1654604514048</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654604514048</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +183,7 @@
     <MESSAGE value="Operações .max .min .average e filter" />
     <MESSAGE value="Operações .count .find .any" />
     <MESSAGE value="Desenvolvimento com ListOf" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desenvolvimento com ListOf" />
+    <MESSAGE value="Ais sobre desenvolvimento com ListOf" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ais sobre desenvolvimento com ListOf" />
   </component>
 </project>
