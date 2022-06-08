@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Mais sobre desenvolvimento com ListOf/ GroupBy">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/map.kt" afterDir="false" />
+    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Desenvolvimento com map">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/colecoesMutaveis/ColectionsMutables.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -41,9 +40,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.MapKt">
-    <configuration name="DoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jeankroetz.DoubleArrayKt" />
+  <component name="RunManager" selected="Kotlin.ColectionsMutablesKt">
+    <configuration name="ColectionsMutablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jeankroetz.colecoesMutaveis.ColectionsMutablesKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ColectionsMutablesKt" />
         <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.SetKt" />
         <item itemvalue="Kotlin.ListKt" />
         <item itemvalue="Kotlin.OperacoesKt" />
-        <item itemvalue="Kotlin.DoubleArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654606754749</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Desenvolvimento com map">
+      <created>1654630617211</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654630617211</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +199,7 @@
     <MESSAGE value="Desenvolvimento com ListOf" />
     <MESSAGE value="Ais sobre desenvolvimento com ListOf" />
     <MESSAGE value="Mais sobre desenvolvimento com ListOf/ GroupBy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mais sobre desenvolvimento com ListOf/ GroupBy" />
+    <MESSAGE value="Desenvolvimento com map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desenvolvimento com map" />
   </component>
 </project>
