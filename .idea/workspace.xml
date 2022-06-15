@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Desenvolvimento com map">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/colecoesMutaveis/ColectionsMutables.kt" afterDir="false" />
+    <list default="true" id="680ea567-f8f9-44a7-9d5e-6d00d15d0db2" name="Changes" comment="Introdução às coleções mutáveis">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/colecoesMutaveis/Repository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeankroetz/colecoesMutaveis/mutavelMap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -40,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ColectionsMutablesKt">
+  <component name="RunManager" selected="Kotlin.MutavelMapKt">
     <configuration name="ColectionsMutablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jeankroetz.colecoesMutaveis.ColectionsMutablesKt" />
       <module name="consoleApp" />
@@ -62,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperacoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jeankroetz.OperacoesKt" />
+    <configuration name="MutavelMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jeankroetz.colecoesMutaveis.MutavelMapKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MutavelMapKt" />
         <item itemvalue="Kotlin.ColectionsMutablesKt" />
         <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.SetKt" />
         <item itemvalue="Kotlin.ListKt" />
-        <item itemvalue="Kotlin.OperacoesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654630617211</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Introdução às coleções mutáveis">
+      <created>1654683963417</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654683963417</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +208,7 @@
     <MESSAGE value="Ais sobre desenvolvimento com ListOf" />
     <MESSAGE value="Mais sobre desenvolvimento com ListOf/ GroupBy" />
     <MESSAGE value="Desenvolvimento com map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desenvolvimento com map" />
+    <MESSAGE value="Introdução às coleções mutáveis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introdução às coleções mutáveis" />
   </component>
 </project>
